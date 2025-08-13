@@ -1,0 +1,16 @@
+@nsobid-05DE5A7F20BD1532D139C16C0B3E8920
+
+# Bravely Default II [01006DC010326000] v1.0.0 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+02C17F60 C0035FD6
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

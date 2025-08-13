@@ -1,0 +1,17 @@
+@nsobid-0CCE09C23816FA6AF21FF70C1F94B76A
+
+# Tales of Kenzera: ZAU [01005C7015D30000] v1.0.2 - 60FPS 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+04C78500 1F2003D5
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

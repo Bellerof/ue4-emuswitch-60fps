@@ -1,0 +1,17 @@
+@nsobid-5BCF525F24EB28658A8D67AC27800D9B0EE9BDD5
+
+# OCTOPATH TRAVELER II [0100A3501946E000] v.1.0.0 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+004499C8 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

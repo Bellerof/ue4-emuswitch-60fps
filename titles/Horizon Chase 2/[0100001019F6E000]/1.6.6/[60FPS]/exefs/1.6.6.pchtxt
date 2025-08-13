@@ -1,0 +1,18 @@
+@nsobid-D60A7F43A98034BEDA802269D392A690
+
+# Horizon Chase 2 [0100001019F6E000] v.1.6.6 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+06CF4AE4 1F2003D5 
+06DF8574 1F2003D5 
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

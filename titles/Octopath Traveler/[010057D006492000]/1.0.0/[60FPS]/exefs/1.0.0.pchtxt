@@ -1,0 +1,16 @@
+@nsobid-0D8A6A8804A6654C47C62E9C577E6C04
+
+# OCTOPATH TRAVELER [010057D006492000] v.1.0.0 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+00CA819C C0035FD6
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

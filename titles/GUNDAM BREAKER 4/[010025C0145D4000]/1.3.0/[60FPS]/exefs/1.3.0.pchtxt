@@ -1,0 +1,17 @@
+@nsobid-0FCB7D1E6E4D1836F7F43C0D1BA09FAE
+
+# GUNDAM BREAKER 4 [010025C0145D4000] v1.3.0 - 60FPS 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS 
+
+@enabled
+0776E648 1F2003D5
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/ue4-emuswitch-60fps
+https://github.com/StevensND/switch-port-mods

@@ -1,0 +1,18 @@
+@nsobid-E1BD1040BFBDDAFF0BC8EC4BB8A8C386
+
+# SHIN MEGAMI TENSEI V: Vengeance [010069C01AB82000] v1.0.2 - 2560x1440 (2K) Docked
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 2560x1440 (2K) Docked
+
+@enabled
+0374C62C C960A852 
+05415F88 1F2003D5 
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

@@ -1,0 +1,20 @@
+@nsobid-AD3FDFBD62A5F4B082D385FFE420D4400ABB831D
+
+# DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET [010051C0134F8000] v1.51 - Unlocked FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Unlocked FPS
+
+@enabled
+00400538 0B03174B
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
+
+@Fl4sh#9174
+https://github.com/Fl4sh9174

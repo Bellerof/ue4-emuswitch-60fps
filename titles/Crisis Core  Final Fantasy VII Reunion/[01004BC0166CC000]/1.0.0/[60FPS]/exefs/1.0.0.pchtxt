@@ -1,0 +1,16 @@
+@nsobid-C1389EE7FD1F1AE5049A9AA11780F61B
+
+# CRISIS CORE –FINAL FANTASY VII– REUNION [01004BC0166CC000] v.1.0.0 - Unlock FPS 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Unlock FPS
+
+@enabled
+0301CDF0 C0035FD6
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

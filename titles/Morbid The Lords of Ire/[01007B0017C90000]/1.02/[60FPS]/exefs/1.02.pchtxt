@@ -1,0 +1,18 @@
+@nsobid-55DFB4A664D8B5967BABC0944C23116C
+
+# Morbid: The Lords of Ire [01007B0017C90000] v1.02 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+049C0158 1F2003D5
+04842924 1F2003D5
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

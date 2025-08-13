@@ -1,0 +1,18 @@
+@nsobid-21F90AA03BED43F0EEC86613839C4892
+
+# Disney Epic Mickey: Rebrushed [0100DA201EBF8000] v1.0.2 - 60FPS 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+0507FAFE 1F2003D5
+00F69FF8 E8031F2A // Don't lock prerendered cutscenes to 30 FPS // Thanks Masagrator for the offset 
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

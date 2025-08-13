@@ -1,0 +1,17 @@
+@nsobid-0EDF3C4A511458A664504EB85D24F82E
+
+# SHIN MEGAMI TENSEI V: Vengeance [010069C01AB82000] v1.0.0 - FPS Unlocked 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// FPS Unlocked
+
+@enabled
+0182AC1C C0035FD6
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

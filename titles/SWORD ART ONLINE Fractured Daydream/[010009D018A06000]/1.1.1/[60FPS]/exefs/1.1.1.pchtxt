@@ -1,0 +1,18 @@
+@nsobid-3AAA28C9CB8367B90053EB7AF3DCEA64
+
+# SWORD ART ONLINE Fractured Daydream [010009D018A06000][JPN] v1.1.1 - 60FPS 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+0690D91A 1F2003D5
+01871110 017D8052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

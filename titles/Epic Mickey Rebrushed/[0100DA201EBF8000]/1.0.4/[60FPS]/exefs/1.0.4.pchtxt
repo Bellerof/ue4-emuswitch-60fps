@@ -1,0 +1,20 @@
+@nsobid-10844A7A20C5597E8E5C26B9463DB0C1
+
+# Disney Epic Mickey: Rebrushed [0100DA201EBF8000] v1.0.4 - 60FPS 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+05089636 1F2003D5
+00F6FB88 E8031F2A // Don't lock prerendered cutscenes to 30 FPS // Thanks Masagrator for the offset 
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
+
+// Prerendered Cutscenes might have issues at FPS not divisible by 30. If that's the case, remove the entire line 00F6FB88 E8031F2A

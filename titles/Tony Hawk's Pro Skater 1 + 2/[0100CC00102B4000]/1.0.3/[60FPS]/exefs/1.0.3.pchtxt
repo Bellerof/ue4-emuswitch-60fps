@@ -1,0 +1,24 @@
+@nsobid-8AFCBE6A930CD42EAAF3504C40033FD7
+
+# Tony Hawk's Pro Skater 1 + 2 [0100CC00102B4000] v.1.0.3 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps. Special thanks to Masagrator, Hazerou & ChanseyIsTheBest for find the offsets on real hardware
+
+@enabled
+03BD3728 C0035FD6
+05ABC4E4 1F2003D5 
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
+
+@masagrator
+https://github.com/masagrator
+
+@Hazerou & ChanseyIsTheBest
+https://github.com/ChanseyIsTheBest/NX-60FPS-RES-GFX-Cheats/blob/main/GAMES.md

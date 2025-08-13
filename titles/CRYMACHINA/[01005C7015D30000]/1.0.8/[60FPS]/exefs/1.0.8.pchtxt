@@ -1,0 +1,17 @@
+@nsobid-4CBD150A248DA39C58FB4D752206379B
+
+# CRYMACHINA [010055B01AA08000] v1.0.8 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+05D0B69C 1F2003D5  
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

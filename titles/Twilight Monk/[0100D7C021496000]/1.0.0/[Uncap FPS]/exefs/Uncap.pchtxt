@@ -1,0 +1,17 @@
+@nsobid-849BBF194A39B4092420BFEBF4E973231C25507D
+
+# Twilight Monk [0100D7C021496000] v1.0.0 - Uncap FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Uncap FPS
+
+@enabled
+00189E50 08008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

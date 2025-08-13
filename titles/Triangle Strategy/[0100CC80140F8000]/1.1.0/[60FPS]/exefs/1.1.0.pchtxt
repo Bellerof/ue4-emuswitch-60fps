@@ -1,0 +1,17 @@
+@nsobid-9CB4490E8A718BAE392C59B0368D7C4E
+
+# TRIANGLE STRATEGY [0100CC80140F8000] v.1.1.0 - 60fps
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60fps
+
+@enabled
+057E4AA0 1F2003D5
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

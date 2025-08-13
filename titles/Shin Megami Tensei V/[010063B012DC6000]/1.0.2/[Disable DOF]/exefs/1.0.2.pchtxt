@@ -1,0 +1,20 @@
+@nsobid-68FED4970010ACF3DFC22D689D003F9F
+
+# SHIN MEGAMI TENSEI V [US][010063B012DC6000] v1.0.2 - Disable DOF
+
+@flag print_values
+@flag offset_shift 0x100
+
+// Disable DOF. Thanks to Fl4sh_ for the help with this mod.
+
+@enabled
+022E8734 08008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
+
+@Fl4sh9174
+https://github.com/Fl4sh9174/Switch-Ultrawide-Mods

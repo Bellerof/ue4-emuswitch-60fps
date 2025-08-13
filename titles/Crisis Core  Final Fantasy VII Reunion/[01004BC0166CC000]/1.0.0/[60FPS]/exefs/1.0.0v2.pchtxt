@@ -1,0 +1,16 @@
+@nsobid-2BF3519216F5B9D3E8CE26863C2E98B66F7BCCBA
+
+# CRISIS CORE –FINAL FANTASY VII– REUNION [01004BC0166CC000] - 60 FPS 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60 FPS
+
+@enabled
+00486D60 28008052
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods

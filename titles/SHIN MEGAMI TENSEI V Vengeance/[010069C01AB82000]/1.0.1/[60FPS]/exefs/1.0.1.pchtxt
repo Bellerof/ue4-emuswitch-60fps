@@ -1,0 +1,18 @@
+@nsobid-541F680F325BD5ACD196EF8EECBDCA16
+
+# SHIN MEGAMI TENSEI V: Vengeance [010069C01AB82000] v1.0.1 - 60FPS 
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+0542A4BA 1F2003D5 
+0182AE8C C0035FD6
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps

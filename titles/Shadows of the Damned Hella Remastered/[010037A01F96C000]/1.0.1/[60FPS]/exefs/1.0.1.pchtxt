@@ -1,0 +1,17 @@
+@nsobid-5B863A6EFCE084B099E9F6F7E27FE3E5710F9415
+
+# Shadows of the Damned: Hella Remastered [010037A01F96C000] v1.0.1 - 60FPS
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 60FPS
+
+@enabled
+00A0BE9C E003271E
+@stop
+
+@StevensND
+https://linktr.ee/stevensmods
+https://github.com/StevensND/switch-port-mods
+https://github.com/StevensND/ue4-emuswitch-60fps
